@@ -58,10 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "clearance|146774000|51054000|771a0e24-1d32-45b0-a95b-60a3669d7bbb|dc595644-535d-4b1f-a06d-7f5e7b2fe6a5",
-        "track_dangling|146954000|51054000|771a0e24-1d32-45b0-a95b-60a3669d7bbb|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -183,7 +180,8 @@
       "track_widths": [
         0.0,
         0.3,
-        0.4
+        0.4,
+        0.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -223,6 +221,10 @@
         {
           "diameter": 0.8,
           "drill": 0.4
+        },
+        {
+          "diameter": 1.0,
+          "drill": 0.5
         }
       ],
       "zones_allow_external_fillets": false
@@ -457,7 +459,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "286_to_plcc68.kicad_pro",
+    "filename": "286_to_bboard.kicad_pro",
     "version": 1
   },
   "net_settings": {

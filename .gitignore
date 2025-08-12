@@ -1,1 +1,6 @@
 /**-backups/
+*autosave*.kicad_pcb.lck
+*autosave*.kicad_pcb.kicad_pcb
+~**.kicad_sch.lck
+~**.kicad_pcb.lck
+/fp-info-cache

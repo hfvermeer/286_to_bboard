@@ -10904,7 +10904,7 @@
 		)
 	)
 	(gr_text "CLK"
-		(at 163.322 120.396 0)
+		(at 163.322 117.856 0)
 		(layer "F.SilkS")
 		(uuid "17bd274d-c43b-41e6-86bc-cbe24d7c2683")
 		(effects
@@ -11021,7 +11021,7 @@
 		)
 	)
 	(gr_text "RESET"
-		(at 163.322 125.476 0)
+		(at 163.322 120.396 0)
 		(layer "F.SilkS")
 		(uuid "5240322f-4ba5-495f-a271-02dcfd5c66e7")
 		(effects
@@ -11268,7 +11268,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 163.322 117.856 0)
+		(at 163.322 122.936 0)
 		(layer "F.SilkS")
 		(uuid "e7cb77fe-56e9-4375-ad57-a6a41995d93f")
 		(effects
@@ -11307,7 +11307,7 @@
 		)
 	)
 	(gr_text "VCC"
-		(at 163.322 122.936 0)
+		(at 163.322 125.476 0)
 		(layer "F.SilkS")
 		(uuid "ed94080c-dd6b-434b-97c4-d1a812519a71")
 		(effects

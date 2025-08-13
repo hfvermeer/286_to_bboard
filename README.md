@@ -1,6 +1,8 @@
 # 286 to breadboard adapter
 60-pin breadboard adapter for the 286 processor in PLCC-68 package
 
+![286 Breadboard Adapter](286_bboard.png)
+
 ## Features
 This slim design breadboard adapter for the 286 processor features the essential connections, descriptions, decoupling capacitors and even a small array of debugging leds for the system pin outputs. 
 
@@ -112,8 +114,6 @@ Hand solder under soldering microscope. The pads for connectors J1 and J2 contai
 ## Release Notes
 
 ### Changes
-
-* Version 
 
 * Version 1.0.0
   * Add component Values

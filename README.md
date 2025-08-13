@@ -104,3 +104,23 @@ Jumper | J1, J2 | Vertical, 2.54mm, SMT, pin1 left | 2 |
 Jumper | J3 | Vertical, 2.54mm, THT | 1 | 
 IC | U1 | 74HC244, TSSOP-20 | 1 | 
 Socket | UA1 | PLCC-68, SMT | 1 |
+
+### Build Instructions
+
+Hand solder under soldering microscope. The pads for connectors J1 and J2 contain via-in-pads. If using a stencil, these must be filled with tin prior to applying paste, otherwise they may wich up solder paste that is applied.
+
+## Release Notes
+
+### Changes
+
+* Version 
+
+* Version 1.0.0
+  * Add component Values
+  * Correct 74HC240 to 74HC244 in schematic
+  * Correct label descriptions for GND, CLK, VCC and RESET
+  * Add anchor plate for pin headers
+  * Add Gerbers
+
+* Version 0.9.0
+  * Initial Release

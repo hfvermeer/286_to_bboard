@@ -92,6 +92,7 @@ Pin | Description
 ### Bill of Materials (BOM)
 
 Component type | Reference | Description | Quantity | Source and notes
+-------------- | --------- | ----------- | -------- | ----------------
 Capacitor | dfg | dfhgdfgh | 1 | 
 Capacitor | dfg | dfhgdfgh | 1 | 
 Capacitor | dfg | dfhgdfgh | 1 | 

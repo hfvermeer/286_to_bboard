@@ -93,12 +93,14 @@ Pin | Description
 
 Component type | Reference | Description | Quantity | Source and notes
 -------------- | --------- | ----------- | -------- | ----------------
-Capacitor | dfg | dfhgdfgh | 1 | 
-Capacitor | dfg | dfhgdfgh | 1 | 
-Capacitor | dfg | dfhgdfgh | 1 | 
-Diode | D1, D2. D3, D4, D5, D6, D7, D7 | dfhdfgh | 8 | Ali Express
-Resistor | dfg | dfhgdfgh | 1 | 
-Jumper | dfg | dfhgdfgh | 1 | 
-Jumper | dfg | dfhgdfgh | 1 | 
-IC | dfg | dfhgdfgh | 1 | 
-Socket | dfg | dfhgdfgh | 1 | 
+Capacitor | C1, C3, C4, C5 | 100nf, 0805 | 4 | 
+Capacitor | C2 | 10uf, 0805 | 1 | 
+Capacitor | C6 | 47nf, 0805 | 1 |
+Capacitor | C7 | 100nf, 0402 | 1 | 
+LED | D1, D2. D3, D4, D5, D6, D7, D8 | RED, 0603 | 8 |
+Resistor | R1, R2. R3, R4, R5, R6, R7, R8 | 2k, 0402 | 8 |
+Resistor | R9 | 1k, 0402 | 1 | 
+Jumper | J1, J2 | Vertical, 2.54mm, SMT, pin1 left | 2 | 
+Jumper | J3 | Vertical, 2.54mm, THT | 1 | 
+IC | U1 | 74HC244, TSSOP-20 | 1 | 
+Socket | UA1 | PLCC-68, SMT | 1 |
